@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF37654A-A727-44CB-8785-6F02751C66E4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67B1EFB6-99D0-4CC9-84EB-CE7EAF184692"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "setupNowPlaying()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A06C5A55-D746-4FC6-9055-CA4F2D93DB9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "init(chapters:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DAD64A2-DF25-48C6-99F4-24AE31B88FCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "reduce(into:action:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721C0A42-688D-4B3A-A073-9F73063B5F4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "play()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00B2EB8C-EEC7-4FD7-9CA3-B1FA7E8933EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "setupAudioPlayerForChapter(with:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57232120-16BF-48F3-896E-C32995C35281"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "AudioPlayerService"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A93FBE27-922C-48D6-8DC9-FFAA8234A692"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "reduce(into:action:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDBB0331-454E-49A3-8012-FA69C029C269"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "reduce(into:action:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDBB0331-454E-49A3-8012-FA69C029C269 - 8924b4f96ef38e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.AudiobookFeature.reduce(into: inout TCAAudiobooksStore.AudiobookFeature.State, action: TCAAudiobooksStore.AudiobookFeature.Action) -&gt; ComposableArchitecture.Effect&lt;TCAAudiobooksStore.AudiobookFeature.Action&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "FDBB0331-454E-49A3-8012-FA69C029C269 - dc1944f3ca1f56a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (ComposableArchitecture.Send&lt;TCAAudiobooksStore.AudiobookFeature.Action&gt;) async -&gt; () in TCAAudiobooksStore.AudiobookFeature.reduce(into: inout TCAAudiobooksStore.AudiobookFeature.State, action: TCAAudiobooksStore.AudiobookFeature.Action) -&gt; ComposableArchitecture.Effect&lt;TCAAudiobooksStore.AudiobookFeature.Action&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "FDBB0331-454E-49A3-8012-FA69C029C269 - 6de316f253f97ee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable (ComposableArchitecture.Send&lt;TCAAudiobooksStore.AudiobookFeature.Action&gt;) async -&gt; () in TCAAudiobooksStore.AudiobookFeature.reduce(into: inout TCAAudiobooksStore.AudiobookFeature.State, action: TCAAudiobooksStore.AudiobookFeature.Action) -&gt; ComposableArchitecture.Effect&lt;TCAAudiobooksStore.AudiobookFeature.Action&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9194579-1283-4E25-BFA5-A78BDAB9B8A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "setupAudioSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9194579-1283-4E25-BFA5-A78BDAB9B8A5 - 8de02a4933224e06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.AudioPlayerService.setupAudioSession() -&gt; ()"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "E9194579-1283-4E25-BFA5-A78BDAB9B8A5 - 8de02a4933224e06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.AudioPlayerService.setupAudioSession() -&gt; ()"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "E9194579-1283-4E25-BFA5-A78BDAB9B8A5 - 8de02a4933224e06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.AudioPlayerService.setupAudioSession() -&gt; ()"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4D0822F-5E76-4505-91A8-B40B04C3CC8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudioPlayerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "previous()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "046829A1-FC35-4C90-AC4F-496BAAFBC218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Audiobook/AudiobookFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "reduce(into:action:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10EA6CBF-771E-4ADD-AF98-61B0232F02AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Purchase/Store.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "requestProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF3C0E1F-4891-4D72-84C8-1906745A3343"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Purchase/Store.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF3C0E1F-4891-4D72-84C8-1906745A3343 - a6902437547bd4d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.StoreServise.init() -&gt; TCAAudiobooksStore.StoreServise"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/Store.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "DF3C0E1F-4891-4D72-84C8-1906745A3343 - a6902437547bd4d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TCAAudiobooksStore.StoreServise.init() -&gt; TCAAudiobooksStore.StoreServise"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/Store.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAAudiobooksStore/Purchase/StoreService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "purchase()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D - 8661e44daf5ff00c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for TCAAudiobooksStore.StoreService.purchase() async throws -&gt; Swift.Optional&lt;StoreKit.Transaction&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/StoreService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D - daa6f19d01dabd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for TCAAudiobooksStore.StoreService.purchase() async throws -&gt; Swift.Optional&lt;StoreKit.Transaction&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/StoreService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D - 6fdfffae92467a00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for TCAAudiobooksStore.StoreService.purchase() async throws -&gt; Swift.Optional&lt;StoreKit.Transaction&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/StoreService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D - 467306c65d839983"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for TCAAudiobooksStore.StoreService.purchase() async throws -&gt; Swift.Optional&lt;StoreKit.Transaction&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/StoreService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "8803BEF6-05AE-4E37-B67F-083D3DA2FC4D - 6fdfffae92467a00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for TCAAudiobooksStore.StoreService.purchase() async throws -&gt; Swift.Optional&lt;StoreKit.Transaction&gt;"
+                  moduleName = "TCAAudiobooksStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandryevdokymov/Desktop/TCAAudiobooksStore/TCAAudiobooksStore/Purchase/StoreService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "576">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
