@@ -11,13 +11,8 @@
 		7F39E0232AB84E5A00B35072 /* AudiobookFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39E0222AB84E5A00B35072 /* AudiobookFeature.swift */; };
 		7F39E0332AB8525200B35072 /* Chapter 02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E0292AB8525200B35072 /* Chapter 02.mp3 */; };
 		7F39E0342AB8525200B35072 /* Chapter 04.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02A2AB8525200B35072 /* Chapter 04.mp3 */; };
-		7F39E0352AB8525200B35072 /* Chapter 03.html in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02B2AB8525200B35072 /* Chapter 03.html */; };
 		7F39E0362AB8525200B35072 /* Chapter 05.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02C2AB8525200B35072 /* Chapter 05.mp3 */; };
 		7F39E0372AB8525200B35072 /* Chapter 01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02D2AB8525200B35072 /* Chapter 01.mp3 */; };
-		7F39E0382AB8525200B35072 /* Chapter 01.html in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02E2AB8525200B35072 /* Chapter 01.html */; };
-		7F39E0392AB8525200B35072 /* Chapter 05.html in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E02F2AB8525200B35072 /* Chapter 05.html */; };
-		7F39E03A2AB8525200B35072 /* Chapter 02.html in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E0302AB8525200B35072 /* Chapter 02.html */; };
-		7F39E03B2AB8525200B35072 /* Chapter 04.html in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E0312AB8525200B35072 /* Chapter 04.html */; };
 		7F39E03C2AB8525200B35072 /* Chapter 03.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7F39E0322AB8525200B35072 /* Chapter 03.mp3 */; };
 		7F39E03E2AB8552A00B35072 /* AudioPlayerService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39E03D2AB8552A00B35072 /* AudioPlayerService.swift */; };
 		7F39E0402AB86F2B00B35072 /* AudioPlayerClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F39E03F2AB86F2B00B35072 /* AudioPlayerClient.swift */; };
@@ -64,13 +59,8 @@
 		7F39E0222AB84E5A00B35072 /* AudiobookFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudiobookFeature.swift; sourceTree = "<group>"; };
 		7F39E0292AB8525200B35072 /* Chapter 02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chapter 02.mp3"; sourceTree = "<group>"; };
 		7F39E02A2AB8525200B35072 /* Chapter 04.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chapter 04.mp3"; sourceTree = "<group>"; };
-		7F39E02B2AB8525200B35072 /* Chapter 03.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Chapter 03.html"; sourceTree = "<group>"; };
 		7F39E02C2AB8525200B35072 /* Chapter 05.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chapter 05.mp3"; sourceTree = "<group>"; };
 		7F39E02D2AB8525200B35072 /* Chapter 01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chapter 01.mp3"; sourceTree = "<group>"; };
-		7F39E02E2AB8525200B35072 /* Chapter 01.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Chapter 01.html"; sourceTree = "<group>"; };
-		7F39E02F2AB8525200B35072 /* Chapter 05.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Chapter 05.html"; sourceTree = "<group>"; };
-		7F39E0302AB8525200B35072 /* Chapter 02.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Chapter 02.html"; sourceTree = "<group>"; };
-		7F39E0312AB8525200B35072 /* Chapter 04.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Chapter 04.html"; sourceTree = "<group>"; };
 		7F39E0322AB8525200B35072 /* Chapter 03.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chapter 03.mp3"; sourceTree = "<group>"; };
 		7F39E03D2AB8552A00B35072 /* AudioPlayerService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerService.swift; sourceTree = "<group>"; };
 		7F39E03F2AB86F2B00B35072 /* AudioPlayerClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerClient.swift; sourceTree = "<group>"; };
@@ -140,15 +130,10 @@
 		7F39E0242AB8516900B35072 /* AudiobookChapterFiles */ = {
 			isa = PBXGroup;
 			children = (
-				7F39E02E2AB8525200B35072 /* Chapter 01.html */,
 				7F39E02D2AB8525200B35072 /* Chapter 01.mp3 */,
-				7F39E0302AB8525200B35072 /* Chapter 02.html */,
 				7F39E0292AB8525200B35072 /* Chapter 02.mp3 */,
-				7F39E02B2AB8525200B35072 /* Chapter 03.html */,
 				7F39E0322AB8525200B35072 /* Chapter 03.mp3 */,
-				7F39E0312AB8525200B35072 /* Chapter 04.html */,
 				7F39E02A2AB8525200B35072 /* Chapter 04.mp3 */,
-				7F39E02F2AB8525200B35072 /* Chapter 05.html */,
 				7F39E02C2AB8525200B35072 /* Chapter 05.mp3 */,
 			);
 			path = AudiobookChapterFiles;
@@ -382,19 +367,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FF34FBD2AB74851002244AC /* Preview Assets.xcassets in Resources */,
-				7F39E03A2AB8525200B35072 /* Chapter 02.html in Resources */,
-				7F39E0392AB8525200B35072 /* Chapter 05.html in Resources */,
 				7F39E0332AB8525200B35072 /* Chapter 02.mp3 in Resources */,
 				7F39F82B2AB8DA5600A2334D /* Products.plist in Resources */,
-				7F39E0382AB8525200B35072 /* Chapter 01.html in Resources */,
-				7F39E03B2AB8525200B35072 /* Chapter 04.html in Resources */,
 				7F39E03C2AB8525200B35072 /* Chapter 03.mp3 in Resources */,
 				7FF34FBA2AB74851002244AC /* Assets.xcassets in Resources */,
 				7F39E0342AB8525200B35072 /* Chapter 04.mp3 in Resources */,
 				7F39E0362AB8525200B35072 /* Chapter 05.mp3 in Resources */,
 				7F39E0372AB8525200B35072 /* Chapter 01.mp3 in Resources */,
 				7F39F82C2AB8DA5600A2334D /* Products.storekit in Resources */,
-				7F39E0352AB8525200B35072 /* Chapter 03.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
