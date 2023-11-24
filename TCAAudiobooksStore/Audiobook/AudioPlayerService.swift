@@ -86,7 +86,6 @@ final class AudioPlayerService: NSObject, AudioPlayerServiceProtocol, AVAudioPla
     }
     
     func changeSpeed() {
-        let currentTime = currentTime
         setupAudioPlayerForChapter(with: currentChapter.name, with: currentChapter.ext)
         audioPlayer?.currentTime = currentTime
         speedIndex = (speedIndex + 1) < speeds.count ? speedIndex + 1 : 0
@@ -105,6 +104,7 @@ final class AudioPlayerService: NSObject, AudioPlayerServiceProtocol, AVAudioPla
         index = (index - 1) >= 0 ? index - 1 : chapters.count - 1
         currentChapter = chapters[index]
         setupAudioPlayerForChapter(with: currentChapter.name, with: currentChapter.ext)
+        resetSpeed()
         audioPlayer?.play()
     }
     
@@ -113,6 +113,7 @@ final class AudioPlayerService: NSObject, AudioPlayerServiceProtocol, AVAudioPla
         index = (index + 1) < chapters.count ? index + 1 : 0
         currentChapter = chapters[index]
         setupAudioPlayerForChapter(with: currentChapter.name, with: currentChapter.ext)
+        resetSpeed()
         audioPlayer?.play()
     }
     
@@ -156,6 +157,11 @@ final class AudioPlayerService: NSObject, AudioPlayerServiceProtocol, AVAudioPla
     // MARK: - Private implementation
     private func stop() {
         audioPlayer?.stop()
+    }
+    
+    private func resetSpeed() {
+        speedIndex = 0
+        speed = speeds[speedIndex]
     }
     
     private func setupAudioSession() {

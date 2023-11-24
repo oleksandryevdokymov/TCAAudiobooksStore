@@ -12,8 +12,6 @@ struct AudiobookPlayerView: View {
     
     let store: StoreOf<AudiobookFeature>
     
-    @State var value: Double = 0.0
-    
     @State var segmentIndex: Int = 0
     
     let segmentOptions = ["headphones", "list.dash"]
@@ -65,6 +63,7 @@ struct AudiobookPlayerView: View {
                                 minValue: viewStore.formattedCurrentTime,
                                 maxValue: viewStore.formattedMaxDuration)
                 .tint(.mainBlueColor)
+                .frame(height: 60)
                 .padding([.leading, .trailing], 20)
 
                 

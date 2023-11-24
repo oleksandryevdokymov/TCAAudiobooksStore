@@ -26,16 +26,28 @@ struct AudioSliderView: View {
     }
     
     var body: some View {
-        Slider(value: value, in: range) {
+        GeometryReader { geometry in
+            
+            Slider(value: value, in: range) {
                 Text("Track Slider")
             } minimumValueLabel: {
                 Text(minValue)
                     .font(.system(size: 14, weight: .regular))
                     .foregroundColor(.secondaryTextColor)
+                    .frame(minWidth: 40)
             } maximumValueLabel: {
                 Text(maxValue)
                     .font(.system(size: 14, weight: .regular))
                     .foregroundColor(.secondaryTextColor)
+                    .frame(minWidth: 40)
             }
+            .gesture(DragGesture(minimumDistance: 0)
+                .onEnded { value in
+                    let percent = min(max(0, Double(value.location.x / geometry.size.width * 1)), 1)
+                    let newValue = range.lowerBound + round(percent * (range.upperBound - range.lowerBound))
+                    
+                    self.value.wrappedValue = newValue
+                })
+        }
     }
 }
